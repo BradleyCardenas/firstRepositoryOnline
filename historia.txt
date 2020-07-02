@@ -1,8 +1,8 @@
 Planeando un viaje 
 Se ha editado toda la rama 
 
-Master 1
+Experimento 1 
 
-Master 2
+Master 1
 
 Practicando con el rebase
