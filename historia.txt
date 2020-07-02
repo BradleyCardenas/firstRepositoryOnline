@@ -3,5 +3,6 @@ Se ha editado toda la rama
 
 Master 1
 
+Master 2
 
 Practicando con el rebase
